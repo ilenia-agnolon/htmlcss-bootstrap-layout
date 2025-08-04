@@ -8,14 +8,23 @@
     box-sizing: border-box;
 }
 
+:root{
+  font-family: 'Montserrat', sans-serif;  
+  font-size: 12px;
+}
+
 /* Stile base: Mobile first (Small --- ≥576px) *** SM ***/
 
 
+
+/* __________________________________________________________________ */
 /* Stile per Tablet (Medium --- ≥768px) *** MD ***/
+
 @media screen and (min-width: 768px) {
 
 }
 
+/* __________________________________________________________________ */
 
 /* Stile per Desktop (X-Large --- ≥1200px) *** XL ***/
 @media screen and (min-width: 1200px) {
